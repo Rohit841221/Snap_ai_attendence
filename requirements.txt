@@ -51,3 +51,6 @@ pillow
 streamlit
 
 # when camera off click (q)
+# for run streamilit run app .py
+#python -m streamlit run app.py
+satefulness ---means all data everwhere screen 
